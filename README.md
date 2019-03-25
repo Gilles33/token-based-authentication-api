@@ -1,4 +1,4 @@
-# Login Api based on JWT
+# token based authentication based on JWT
 Example of token based authentication API using jsonwebtoken package, bearer token and express.js with mongoose.
 
 ## Usage
